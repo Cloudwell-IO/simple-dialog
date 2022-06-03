@@ -1,6 +1,6 @@
 {
   "name": "@cloudwell/simple-dialog",
-  "version": "0.0.0-rc",
+  "version": "1.0.0",
   "description": "A Fluent UI Dialog wrapper with implementations to replace the `alert`, `confirm`, and `prompt` functions.",
   "main": "index.js",
   "readme": "README.md",
